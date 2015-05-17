@@ -12,7 +12,7 @@
 	</appender>
 
 	<!-- Loggers -->
-	<logger name="xpadro.spring.web">
+	<logger name="com.merryapps.gadgeteer">
 		<level value="debug" />
 	</logger>
 	
